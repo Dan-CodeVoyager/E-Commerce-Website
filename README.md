@@ -17,8 +17,8 @@
 
 
 ### Link to Burndown Chart
-[https://app.zenhub.com/workspaces/e-commerce-website-66d6eb2377c8bc000f8184ae/reports/milestones]
+https://app.zenhub.com/workspaces/e-commerce-website-66d6eb2377c8bc000f8184ae/reports/milestones
 
 
 ### Link to ZenHub
-[https://app.zenhub.com/workspaces/e-commerce-website-66d6eb2377c8bc000f8184ae/board]
+https://app.zenhub.com/workspaces/e-commerce-website-66d6eb2377c8bc000f8184ae/board
