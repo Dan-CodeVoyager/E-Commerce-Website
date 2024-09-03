@@ -3,7 +3,7 @@
 
 #### Stakeholder Requirements
 
-(1) Need the ability to create a product in the catalog.
+(1) Need the ability to create a product in the catalog.  
 (2) Need the ability to retrieve a product from the catalog.
 (3) Need the ability to update a product in the catalog.
 (4) Need the ability to delete a product from the catalog.
