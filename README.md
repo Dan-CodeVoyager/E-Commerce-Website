@@ -13,3 +13,12 @@
 (8) Need the ability to query a subset of products in the catalog.  
 (9) Must be hosted in the cloud.  
 (10) Must have automation to deploy new changes to the cloud.  
+
+
+
+### Link to Burndown Chart
+[https://app.zenhub.com/workspaces/e-commerce-website-66d6eb2377c8bc000f8184ae/reports/milestones]
+
+
+### Link to ZenHub
+[https://app.zenhub.com/workspaces/e-commerce-website-66d6eb2377c8bc000f8184ae/board]
